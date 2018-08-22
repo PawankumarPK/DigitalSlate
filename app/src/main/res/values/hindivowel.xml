@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hindivowel">
+        <item>v</item>
+        <item>vk</item>
+        <item>b</item>
+        <item>bz</item>
+        <item>m</item>
+        <item>Å</item>
+        <item>,</item>
+        <item>,s</item>
+        <item>vks</item>
+        <item>vkS</item>
+        <item>va</item>
+
+
+    </string-array>
+
+</resources>

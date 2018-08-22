@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hindiconstant">
+
+        <item>d</item>
+        <item>[k</item>
+        <item>x</item>
+        <item>"?k"</item>
+        <item>p </item>
+        <item>N</item>
+        <item>t</item>
+        <item>></item>
+        <item>V</item>
+        <item>B </item>
+        <item>M </item>
+      <!--  <item> </item>-->
+        <item>.k </item>
+        <item>r </item>
+        <item>Fk</item>
+        <item>n </item>
+        <item>/k </item>
+        <item>u </item>
+        <item>i </item>
+        <item>Q </item>
+        <item>c </item>
+        <item>Hk </item>
+        <item>e </item>
+        <item>; </item>
+        <item>j </item>
+        <item>y </item>
+        <item>o </item>
+        <item>g </item>
+        <item>l </item>
+        <item>"k </item>
+        <item>M+ </item>
+        <item>+</item>
+
+    </string-array>
+</resources>

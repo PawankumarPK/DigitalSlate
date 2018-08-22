@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:background="#00000000"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/mBigAlphabets"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="9dp"
+            android:layout_marginStart="9dp"
+            android:padding="5dp"
+            android:text="@string/englishAlphabets"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#aa000000"/>
+
+        <TextView
+            android:id="@+id/mSmallAlphabets"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="9dp"
+            android:layout_marginStart="9dp"
+            android:padding="5dp"
+            android:text="@string/englishSmallAlpabets"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#aa000000"/>
+
+      <!--  <TextView
+            android:id="@+id/mCounting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="9dp"
+            android:layout_marginStart="9dp"
+            android:padding="5dp"
+            android:text="Maths Counting "
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#aa000000"/>-->
+
+
+     <!--   <TextView
+            android:id="@+id/mHindiVowel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="9dp"
+            android:layout_marginStart="9dp"
+            android:padding="5dp"
+            android:text="Hindi Vowel  Alphabets "
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#aa000000"/>
+
+        <TextView
+            android:id="@+id/mHindiConstant"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="9dp"
+            android:layout_marginStart="9dp"
+            android:padding="5dp"
+            android:text="Hindi Constant Alphabets "
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#aa000000"/>
+
+-->
+
+
+    </LinearLayout>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</android.support.v7.widget.CardView>

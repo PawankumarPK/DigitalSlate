@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Digital Slate</string>
+
+    <string name="Areyousureyouwanttoexit">Are you sure you want to exit</string>
+    <string name="yes">Yes</string>
+    <string name="exit">Exit</string>
+    <string name="aboutUs">About Us</string>
+    <string name="WhatourAppdo">What our App do</string>
+    <string name="rateApp">RateApp</string>
+    <string name="buyNow">BuyNow</string>
+    <string name="share">Share</string>
+    <string name="close">Close</string>
+    <string name="previous">Previous</string>
+    <string name="next">NEXT</string>
+    <string name="englishAlphabets">English Alphabets</string>
+    <string name="englishSmallAlpabets">English Small Alpabets</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="green">Green</string>
+    <string name="no">No</string>
+
+    <!-- <string name="black">Black</string>
+     <string name="black">Black</string>
+     <string name="black">Black</string>
+ -->
+    <string name="content">Digital Slate is an useful tools where kids can explore drawing skills and also learn writing alphabets and counting.Kids enjoy playing with colors and create colorful drawings.Kids can choose different pencil size and colors. Kids can save and share there drawings. Kids can learn capital alphabets and small alphabets and counting.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
